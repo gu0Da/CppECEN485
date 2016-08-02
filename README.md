@@ -16,7 +16,7 @@ This program is identical to the previous one, except that it uses a while loop 
 
 ####Letter Counter
 This program takes a text file as an input, and outputs the number of occurences of each letter and symbol in the input file.
-The output for this can be seen [here.](http://imgur.com/a/yAxqF)
+The output for this can be seen [by clicking on this link.](http://imgur.com/a/yAxqF)
 
 ####Orbit Simulator
 This program is a very basic orbit simulation. It outputs a text file with the coordinates of the Earth for a two-body Earth-Sun system, with the Sun being a fixed body.

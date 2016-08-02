@@ -1,11 +1,9 @@
 ## CppECEN485
 Independent study in learning C++
 
-The files here represent the work for a 1 credit hour class.
+The files here represent the work for a 1 credit hour summer class, and are listed below in order of creation.
 
 All files were written in C++ using Microsoft Visual Studio 2015.
-
-The files are listed below in order of creation.
 
 ####Cpp Practice
 This program is a very basic implementation of a Morse code translator. It simply takes in a single letter input and returns its Morse code equivalent.

@@ -20,3 +20,4 @@ The output for this can be seen [by clicking on this link.](http://imgur.com/a/y
 
 ####Orbit Simulator
 This program is a very basic orbit simulation. It outputs a text file with the coordinates of the Earth for a two-body Earth-Sun system, with the Sun being a fixed body.
+The output for this is the coords.txt file, and the graph of this can be seen [by clicking on this link.](http://imgur.com/a/W84qD)
